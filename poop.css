@@ -1,0 +1,40 @@
+#cart {
+  width: 150px;
+  height: auto;
+  margin-left: 10px;
+}
+
+#cart ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#cart li {
+  margin-bottom: 10px;
+}
+
+#cart img {
+  width: 50px;
+  margin-right: 10px;
+}
+
+#cart h3 {
+  font-size: 16px;
+  margin-top: 0;
+}
+
+#cart p {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+#cart button {
+  display: block;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor:all-scroll
+  }
